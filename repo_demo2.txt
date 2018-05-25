@@ -2,7 +2,11 @@
 repo demo 4
 New Line1
 New Line 2
+<<<<<<< HEAD
 New Line 3
 =======
 repo demo 5
 >>>>>>> testbranch
+=======
+New Line 3
+>>>>>>> client2
