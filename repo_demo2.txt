@@ -4,4 +4,8 @@ repo demo 5
 repo demo 4
 New Line1
 New Line 2
+<<<<<<< HEAD
 >>>>>>> 87d8dc37285f52d9d02e51adc7c00e2f71cb262d
+=======
+New Line 3
+>>>>>>> f80d7a7e5b2c232c370a66fb69385b598e8c90ad
